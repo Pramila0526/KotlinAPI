@@ -1,5 +1,4 @@
 package com.bridgelabz.KotlinAPI.user.model
-
 import org.springframework.stereotype.Component
 import java.io.Serializable
 import javax.persistence.*
